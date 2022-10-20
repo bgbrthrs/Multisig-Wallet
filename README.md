@@ -179,4 +179,4 @@ contract MultiSigWallet {
             transaction.numConfirmations
         );
     }
-}
+
